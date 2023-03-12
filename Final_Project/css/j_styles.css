@@ -12,3 +12,10 @@
  body {
     background-color: hsl(58, 31%, 84%);
  }
+
+ h1 {
+   text-align: center;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 50px;
+   text-shadow: 4px 6px 6px rgba(46, 173, 52, 0.6);
+ }
